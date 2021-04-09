@@ -1,6 +1,6 @@
 /backend/web/upload_pictures/*
 !/backend/web/upload_pictures/.gitignore
 
-/main/web2/upload_pictures2/*
+/main/web2/upload_pictures2/
 !/main/web2/upload_pictures2/.gitignore
 
