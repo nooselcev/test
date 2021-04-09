@@ -1,0 +1,4 @@
+!/backend/web/upload_pictures/.gitignore
+/backend/web/upload_pictures/*
+
+
