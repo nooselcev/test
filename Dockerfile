@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER novoselov
+MAINTAINER centos
 
 
 COPY ./test.py /opt/test.py
